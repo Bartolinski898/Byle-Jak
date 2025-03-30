@@ -1,5 +1,6 @@
 // komentarz
 console.log("Hellow World!")
+console.log("Hellow World!")
 
 
 const tablica_sort = ['1', '3', '5'];
